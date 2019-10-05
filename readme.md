@@ -1,5 +1,5 @@
 
-1.Make sure Python 3 + is installed 
+1.Make sure Python 3+ is installed 
 python --version
 
 2. Install Jupyter Notebook
